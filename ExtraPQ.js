@@ -56,7 +56,6 @@ class Cylinder {
     }
 }
 
-// Example usage
 const cylinder = new Cylinder(5, 10);
 console.log(`Volume of the cylinder: ${cylinder.getVolume()}`);
 
